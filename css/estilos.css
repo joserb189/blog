@@ -1,0 +1,20 @@
+.box-slider {
+    background-color: goldenrod;
+}
+
+footer {
+    background: black;
+}
+
+.caja {
+    background: #fff;
+    border-top: 1px solid gray;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
